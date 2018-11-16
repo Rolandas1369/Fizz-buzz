@@ -8,7 +8,7 @@ Need to have Python installed on machine.
 
 Cmd or Shell(in directory where fizzbuzz.py is located):
 
-python -c 'from fizzbuzz import *; new_buzz.{function_from_list}' 
+<b>python -c 'from fizzbuzz import *; new_buzz.{function_from_list}'</b> 
 
 List of functions:
 
